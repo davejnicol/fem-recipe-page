@@ -28,7 +28,7 @@ Below is the screenshot from my completed solution.
 
 ### Links
 
--   Solution URL: [Recipe Page on Netlify](https://UPDATELATER.netlify.app/)
+-   Solution URL: [Recipe Page on Netlify](https://tourmaline-nougat-f80656.netlify.app/)
 
 ## My process
 
