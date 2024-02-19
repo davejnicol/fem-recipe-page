@@ -153,9 +153,10 @@ h2 {
 	margin-bottom: var(--size-7);
 	padding: var(--size-6) var(--size-8);
 }
-.recipe-prep-time h3 {
+.prep-time-heading {
 	color: var(--clr-accent);
 	font-size: var(--fs-500);
+	font-weight: var(--fw-semibold);
 	margin-bottom: var(--size-4);
 }
 .recipe-prep-time li::marker {
